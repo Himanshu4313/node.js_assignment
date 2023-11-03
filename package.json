@@ -1,0 +1,19 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "for learninf purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Himanshu4313/node.js_assignment.git"
+  },
+  "author": "Himanshu kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Himanshu4313/node.js_assignment/issues"
+  },
+  "homepage": "https://github.com/Himanshu4313/node.js_assignment#readme"
+}
